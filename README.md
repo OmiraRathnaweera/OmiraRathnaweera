@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omira Vimal Rathnaweera</h1>
+<h1 align="center">Hi 👋, I'm Omira Vidmal Rathnaweera</h1>
 <h3 align="center">An undergraduate student at SLIIT</h3>
 
 - 🌱 I’m currently learning **Figma, React, JS, CSS**
